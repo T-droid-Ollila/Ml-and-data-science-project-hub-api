@@ -139,4 +139,4 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Simiyu**
-Data Scientist & ML Engineer
+
