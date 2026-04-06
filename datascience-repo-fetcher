@@ -1,4 +1,5 @@
 ## Today we shall use the Github API to retrieve Machine learning projects from GITHUB using GITHUB API
+## To the user you can change the 'sample_data' because it may not be in your own computer
 import pandas as pd
 import requests
 import json
