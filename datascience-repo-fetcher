@@ -39,6 +39,7 @@ def load_ML_pagination():
       'stargazers_count': 'stars',
       'html_url':'url'
       })
+    ## Kindly save the data to a CSV file
     df1.to_csv('Data_Science.csv',index=False)
     return df1
   else:
